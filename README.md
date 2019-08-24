@@ -5,6 +5,13 @@
 npm install
 ```
 
+
+## Project Demo
+```
+https://pedantic-torvalds-12fdea.netlify.com/
+```
+
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
